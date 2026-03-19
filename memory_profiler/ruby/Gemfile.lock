@@ -1,10 +1,11 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    memory_profiler (0.9.14)
+    memory_profiler (1.1.0)
 
 PLATFORMS
-  x64-mingw32
+  x64-mingw-ucrt
+  x86_64-linux
 
 DEPENDENCIES
   memory_profiler
